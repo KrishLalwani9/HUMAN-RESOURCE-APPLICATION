@@ -1,0 +1,1 @@
+java -classpath ..\..\netclient\build\libs\netclient.jar;..\..\netcommon\build\libs\netcommon.jar;..\..\dbdl\build\libs\dbdl.jar;..\..\common\dist\hr-common.jar;c:\mysqljar\*;..\..\proxybl\build\libs\proxybl.jar;..\build\libs\pl.jar;c:\itext7\*;. DesignationModelTestCasepsp

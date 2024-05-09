@@ -1,0 +1,1 @@
+java -classpath ..\dl\dist\hr-dl-1.0.jar;..\netclient\build\libs\netclient.jar;..\netcommon\build\libs\netcommon.jar;..\common\dist\hr-common.jar;..\proxybl\build\libs\proxybl.jar;build\libs\pl.jar;libs\*;. com.krish.lalwani.hr.pl.Main

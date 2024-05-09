@@ -1,0 +1,1 @@
+java -classpath ..\netclient\build\libs\netclient.jar;..\netcommon\build\libs\netcommon.jar;..\common\dist\hr-common.jar;..\proxybl\build\libs\proxybl.jar;build\libs\pl.jar;c:\itext7\*;..\dbdl\build\libs\dbdl.jar;c:\mysqljar\*;. com.krish.lalwani.hr.pl.Main

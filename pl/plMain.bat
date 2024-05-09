@@ -1,0 +1,1 @@
+java -classpath ..\dl\dist\hr-dl-1.0.jar;..\common\dist\hr-common.jar;..\bl\build\libs\bl.jar;build\libs\pl.jar;libs\*;. com.krish.lalwani.hr.pl.Main

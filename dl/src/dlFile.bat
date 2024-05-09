@@ -1,0 +1,1 @@
+javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\krish\lalwani\hr\dl\dto\*.java
